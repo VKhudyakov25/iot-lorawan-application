@@ -1,0 +1,20 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Back-End part for my master's work",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vyacheslav Khudyakov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "modbus-pdu": "^1.13.1",
+    "node-modbus": "^4.3.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "websocket": "^1.0.30"
+  }
+}
