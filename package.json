@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "modbus-pdu": "^1.13.1",
     "node-modbus": "^4.3.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.3.0",
     "websocket": "^1.0.30"
   }
